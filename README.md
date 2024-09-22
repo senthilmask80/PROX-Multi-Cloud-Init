@@ -27,3 +27,5 @@ chmod +x *sh
 https://www.apalrd.net/posts/2023/pve_cloud/
 
 author: apalrd
+
+email: adventure@apalrd.net
