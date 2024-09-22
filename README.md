@@ -14,8 +14,8 @@ Once Cloud-Init is set up and running, you can easily clone a template, install 
 Hey there! This cool script will help you download a bunch of ready-to-go cloud images from popular Linux distributions. It will then turn them into new VM templates with numbers like 900. You can also import your SSH keys and set up the VM just the way you want it. Don't forget, you can always tweak the settings in the script before running it. And make sure to add your public key in a text file and set your username too. Have fun!
 
 # shell
-git clone https://github.com/senthilmask80/PROX-Multi-Cloud-Init.git
-cd PROX-Multi-Cloud-Init
-chmod +x *sh
+git clone https://github.com/senthilmask80/PROX-Multi-Cloud-Init.git \n
+cd PROX-Multi-Cloud-Init \n
+chmod +x *sh \n
 ./multi-cloud-init.sh
 
