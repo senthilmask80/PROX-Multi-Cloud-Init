@@ -22,9 +22,21 @@ chmod +x *sh
 
 ./multi-cloud-init.sh
 
+
 # Screenshot
 
-![Alt text] (https://github.com/senthilmask80/PROX-Multi-Cloud-Init/blob/main/First%20Screen.png?raw=true "First Screen")
+![Alt text](https://github.com/senthilmask80/PROX-Multi-Cloud-Init/blob/main/First%20Screen.png?raw=true)
+
+
+![Alt text](https://github.com/senthilmask80/PROX-Multi-Cloud-Init/blob/main/Second%20Screen.png?raw=true)
+
+
+![Alt text](https://github.com/senthilmask80/PROX-Multi-Cloud-Init/blob/main/Third%20Screen.png?raw=true)
+
+
+![Alt text](https://github.com/senthilmask80/PROX-Multi-Cloud-Init/blob/main/Fourth%20Screen.png?raw=true)
+
+
 
 
 # Credits goes to
