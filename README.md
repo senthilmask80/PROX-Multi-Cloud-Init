@@ -22,6 +22,11 @@ chmod +x *sh
 
 ./multi-cloud-init.sh
 
+# Screenshot
+
+
+
+
 # Credits goes to
 
 https://www.apalrd.net/posts/2023/pve_cloud/
