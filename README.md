@@ -24,7 +24,7 @@ chmod +x *sh
 
 # Screenshot
 
-
+![Alt text] (https://github.com/senthilmask80/PROX-Multi-Cloud-Init/blob/main/First%20Screen.png?raw=true "First Screen")
 
 
 # Credits goes to
