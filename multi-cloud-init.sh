@@ -27,6 +27,7 @@ case $menuselection in
        BSD
        ;;
      "3" )
+	   source $maindir/urllink.env
        URL
        ;;
      "Exit" )
